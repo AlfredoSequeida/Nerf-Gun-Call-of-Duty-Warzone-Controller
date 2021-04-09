@@ -1,6 +1,6 @@
 # Nerf Gun Call of Duty Warzone Controller (NGCDWC)
 
-[watch the video for this project here](https://youtu.be/ld0Pcy6F-3g)
+[Watch the video for this project here](https://youtu.be/ld0Pcy6F-3g)
 
 I had the idea of using a nerf gun as a controller to play Call of Duty Warzone, but since it's just a controller, it can work for any game with the rebinding of the keys. This repo contains all the files for the client and server, the android app used to get accelerometer data, and the 3D models for the buttons, buttons assembly, and other components.
 
@@ -27,3 +27,6 @@ Then set up the script by setting the `HOST` IP in `nerf_server.py`
 Buttons are designed to have a lead at the top and bottom components of a button. When I built it, I used aluminum foil to provide those contacts with a spring in between both components so the button rises back up.
 
 The buttons should then be fed a voltage. In my case, I used the 3.3V source from the raspberry pi's GPIO pins. The other end of the lead is then connected to a GPIO pin that is used as an input. When these two leads make contact, the button will be registered as ON by the client python script.
+
+## The Android App
+The android app is used to get accelerometer information from an android phone, which is used to move the mouse pointer for in-game aiming. You can build the app using Android Studio.
