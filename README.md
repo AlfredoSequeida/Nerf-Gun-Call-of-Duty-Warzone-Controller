@@ -29,7 +29,7 @@ The nerf gun used for this build is the [NERF Fortnite AR-L Elite Dart Blaster](
 
 
 ### The Brains
-For the brains of the build, I used the [Raspberry pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/). Since it has wifi built-in it lets us build a completely wireless solution.
+For the brains of the build, I used the [Raspberry pi 4 Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/). Since it has wifi built-in it lets us build a completely wireless solution. This is held on the gun using the bottom of this [Raspberry Pi 4 case project on thingiverse by John_Sinclair](https://www.thingiverse.com/thing:3723481)
 
 ![raspberry pi](https://imgur.com/GErPWCK.jpg)
 
