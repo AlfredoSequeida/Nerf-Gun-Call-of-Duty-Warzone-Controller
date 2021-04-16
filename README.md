@@ -28,5 +28,6 @@ Buttons are designed to have a lead at the top and bottom components of a button
 
 The buttons should then be fed a voltage. In my case, I used the 3.3V source from the raspberry pi's GPIO pins. The other end of the lead is then connected to a GPIO pin that is used as an input. When these two leads make contact, the button will be registered as ON by the client python script.
 
+
 ## The Android App
 The android app is used to get accelerometer information from an android phone, which is used to move the mouse pointer for in-game aiming. You can build the app using Android Studio.
