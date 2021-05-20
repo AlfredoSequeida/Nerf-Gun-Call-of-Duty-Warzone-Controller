@@ -2,7 +2,7 @@
 
 [Watch the video for this project here](https://youtu.be/ld0Pcy6F-3g)
 
-I had the idea of using a nerf gun as a controller to play Call of Duty Warzone, but since it's just a controller, it can work for any game with the rebinding of the keys. This repo contains all the files for the client and server, the android app used to get accelerometer data, and the 4D models for the buttons, buttons assembly, and other components.
+I had the idea of using a nerf gun as a controller to play Call of Duty Warzone, but since it's just a controller, it can work for any game with the rebinding of the keys. This repo contains all the files for the client and server, the android app used to get accelerometer data, and the 3D models for the buttons, buttons assembly, and other components.
 
 ## Setup
 Python 3.5 or newer required.
