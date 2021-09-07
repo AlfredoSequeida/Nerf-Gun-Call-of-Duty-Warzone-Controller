@@ -1,4 +1,4 @@
-# Nerf Gun Call of Duty Warzone Controller (NGCDWC)
+# Nerf Gun Call of Duty Warzone Controller (NGCODWC)
 
 [Watch the video for this project here](https://youtu.be/ld0Pcy6F-3g)
 
