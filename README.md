@@ -2,7 +2,7 @@
 
 [Watch the video for this project here](https://youtu.be/ld0Pcy6F-3g)
 
-![demo](https://github.com/AlfredoSequeida/readme_assets/blob/master/Nerf-Gun-Call-of-Duty-Warzone-Controller/gifs/demo.gif)
+![demo](https://github.com/AlfredoSequeida/readme_assets/blob/master/Nerf-Gun-Call-of-Duty-Warzone-Controller/gifs/demo.gif)(https://youtu.be/ld0Pcy6F-3g)
 
 I had the idea of using a nerf gun as a controller to play Call of Duty Warzone, but since it's just a controller, it can work for any game with the rebinding of the keys. This repo contains all the files for the client and server, the android app used to get accelerometer data, and the 3D models for the buttons, buttons assembly, and other components.
 
